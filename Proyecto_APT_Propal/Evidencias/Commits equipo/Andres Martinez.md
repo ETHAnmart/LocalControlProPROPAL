@@ -1,0 +1,2 @@
+-Soporte ante errores y desiciones del proyecto a nivel general.
+-Documentación de las fases.

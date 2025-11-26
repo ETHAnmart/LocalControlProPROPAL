@@ -1,0 +1,2 @@
+-Contacto y coordinación de reuniones con el jefe de proyecto.
+-Codificación lógica interna simulación plc, lenguaje st.
